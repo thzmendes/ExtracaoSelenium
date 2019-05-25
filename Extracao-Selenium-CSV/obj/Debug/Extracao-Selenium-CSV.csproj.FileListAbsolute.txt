@@ -1,0 +1,10 @@
+C:\Users\Thomas\Desktop\Code\Extracao-Selenium-CSV\Extracao-Selenium-CSV\bin\Debug\Extracao-Selenium-CSV.exe.config
+C:\Users\Thomas\Desktop\Code\Extracao-Selenium-CSV\Extracao-Selenium-CSV\bin\Debug\Extracao-Selenium-CSV.exe
+C:\Users\Thomas\Desktop\Code\Extracao-Selenium-CSV\Extracao-Selenium-CSV\bin\Debug\Extracao-Selenium-CSV.pdb
+C:\Users\Thomas\Desktop\Code\Extracao-Selenium-CSV\Extracao-Selenium-CSV\bin\Debug\WebDriver.dll
+C:\Users\Thomas\Desktop\Code\Extracao-Selenium-CSV\Extracao-Selenium-CSV\bin\Debug\WebDriver.xml
+C:\Users\Thomas\Desktop\Code\Extracao-Selenium-CSV\Extracao-Selenium-CSV\obj\Debug\Extracao-Selenium-CSV.csprojAssemblyReference.cache
+C:\Users\Thomas\Desktop\Code\Extracao-Selenium-CSV\Extracao-Selenium-CSV\obj\Debug\Extracao-Selenium-CSV.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\Desktop\Code\Extracao-Selenium-CSV\Extracao-Selenium-CSV\obj\Debug\Extracao-Selenium-CSV.csproj.CopyComplete
+C:\Users\Thomas\Desktop\Code\Extracao-Selenium-CSV\Extracao-Selenium-CSV\obj\Debug\Extracao-Selenium-CSV.exe
+C:\Users\Thomas\Desktop\Code\Extracao-Selenium-CSV\Extracao-Selenium-CSV\obj\Debug\Extracao-Selenium-CSV.pdb
